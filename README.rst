@@ -80,6 +80,7 @@ Diversity and inclusion tools
 `````````````````````````````
 
 - `Grorg <http://grorg.aeracode.org/>`_
+- `Python Accessibility Resources <https://github.com/Nathan-Bransby-NMT/python-accessibility/>`_
 - ???
 
 
